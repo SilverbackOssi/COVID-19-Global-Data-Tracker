@@ -1,0 +1,7 @@
+covid19-global-tracker/
+│
+├── COVID19_Tracker.ipynb
+├── owid-covid-data.csv
+├── README.md
+└── assets/
+    └── images/ (optional charts/screenshots)
